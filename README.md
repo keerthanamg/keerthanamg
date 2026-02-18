@@ -1,12 +1,12 @@
-![logo](https://github.com/keerthanamg/keerthanamg/blob/main/LinkedIn%20%26%20Github%20Banner.png)
+![logo](https://github.com/keerthanamg/keerthanamg/blob/main/GithubBanner.png)
 <h1 align="center">Hi 👋, I'm Keerthana M G</h1>
-<h3 align="center">A passionate, dedicated and aspiring AI & ML Engineer.</h3>
+<h3 align="center">A passionate, dedicated and aspiring Software Engineer.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=keerthanamg&label=Profile%20views&color=0e75b6&style=flat" alt="keerthanamg" /> </p>
 
 - 👨‍💻 All of my projects are available at [https://linktr.ee/KeerthanaMG](https://linktr.ee/KeerthanaMG)
 
-- 📫 How to reach me **keerthanamg.cse20@gmail.com**
+- 📫 How to reach me **keerthanavenugopalmg@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -23,8 +23,5 @@
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/buymeacoffee.com/keerthanamg"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="buymeacoffee.com/keerthanamg" /></a></p><br><br>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=keerthanamg&show_icons=true&locale=en&layout=compact" alt="keerthanamg" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=keerthanamg&show_icons=true&locale=en" alt="keerthanamg" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=keerthanamg&" alt="keerthanamg" /></p>
